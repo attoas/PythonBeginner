@@ -1,17 +1,13 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('ATTO PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
-print("Hello World")
+print ("----------------------------------------")
+print ("ATTO Shop VAT INVOICE")
+print ("----------------------------------------")
+print ("Water       x1 : 10 THB")
+print ("Banana      x1 : 12 THB")
+print ("Juice       x1 : 15 THB")
+print ("Cake        x1 : 25 THB")
+print ("Fried Rice  x1 : 55 THB")
+print ("Fried Egg   x1 : 30 THB")
+print ("Sandwiches  x2 : 60 THB")
+print ("Gravure     x1 : 40 THB")
+print ("----------------------------------------")
+print ("Total          : 247 THB")
