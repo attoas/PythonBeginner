@@ -1,3 +1,7 @@
+'''
+  Comment: Hi is my first program
+'''
+print (10+10*2)
 print ("----------------------------------------")
 print ("ATTO Shop VAT INVOICE")
 print ("----------------------------------------")
