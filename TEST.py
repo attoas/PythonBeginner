@@ -1,10 +1,10 @@
 if False:
-    Print("First Condition")
-    Print("First Condition")
-    Print("First Condition")
-    Print("First Condition")
+    print("First Condition")
+    print("First Condition")
+    print("First Condition")
+    print("First Condition")
 elif True:
-    Print ("Second Condition")
+    print("Second Condition")
 elif False:
     print("Third Condition")
 else:
